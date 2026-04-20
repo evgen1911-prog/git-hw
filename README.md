@@ -9,3 +9,5 @@ https://github.com/evgen1911-prog/git-hw/commit/14ac0a3b2ef90efa5decc838ba662476
 
 ## Ссылка на граф коммитов
 https://github.com/evgen1911-prog/git-hw/network
+## Ссылка на граф коммитов (задание 4*)
+https://github.com/evgen1911-prog/git-hw/network
